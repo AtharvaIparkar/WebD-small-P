@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: beige ;
+}
+
+div {
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 1rem;
+    background-color: white;
+}
