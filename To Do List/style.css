@@ -1,0 +1,50 @@
+body {
+    margin-top: 5rem;
+    background-color:slategrey;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.ul {
+    margin-left: 40%;
+}
+
+.input-text {
+    margin-right: 10px;
+    border-radius: 5px;
+    border: white;
+}
+
+.input-text:hover {
+    border: black solid 2px;
+}
+
+#button {
+    background-color: #198754;
+    border-radius: 5px;
+    border: black solid 1.5px;
+}
+
+.delete {
+    padding: 1px 5px;
+    padding-bottom: 12.5px;
+    background-color: #dc3545;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-bottom: 5px;
+    height: 1.15rem;
+    font-size: 11px;
+}
+
+
+
+
